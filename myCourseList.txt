@@ -1,1 +1,4 @@
 SE 3900 - Software Requirements Engineering (3)
+
+CYBR 1500 - Command line Enviroments
+CYBR 1800 - Introduction to Cybersecurity (3)
