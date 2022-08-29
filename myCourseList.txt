@@ -1,5 +1,6 @@
 SE 3900 - Software Requirements Engineering (3)
 SE 4930 - Software Testing and Quality Assurance (3)
+SE 4920 - Senior Project (3)
 
 CYBR 1500 - Command line Enviroments
 CYBR 3510 - Systems Security (3)
